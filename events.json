@@ -182,7 +182,7 @@
                     ]
                 }
             ],
-            "icon": "Common/Atlas/TabIcon/SP_IconActivityAll"
+            "icon": "UiActivity/Atlas/SP_IconTab01"
         },
         {
             "id": "recur",
