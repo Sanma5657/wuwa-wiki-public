@@ -19,6 +19,7 @@
     "list": [
         {
             "id": "featured",
+            "label": "ActivityTypeName_1",
             "child": [
                 {
                     "id": 100700033,
@@ -185,6 +186,7 @@
         },
         {
             "id": "recur",
+            "label": "ActivityTypeName_3",
             "child": [
                 {
                     "id": 10077000201,
