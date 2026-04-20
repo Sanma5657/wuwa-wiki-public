@@ -79,7 +79,8 @@
                     ],
                     "ver": [
                         "3.2"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_08"
                 },
                 {
                     "id": 108600001,
@@ -99,7 +100,8 @@
                     ],
                     "ver": [
                         "3.2"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_04"
                 },
                 {
                     "id": 109000001,
@@ -119,7 +121,8 @@
                     ],
                     "ver": [
                         "3.2"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_02"
                 },
                 {
                     "id": 109100001,
@@ -139,7 +142,8 @@
                     ],
                     "ver": [
                         "3.2"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_03"
                 },
                 {
                     "id": 100100019,
@@ -159,7 +163,8 @@
                     ],
                     "ver": [
                         "3.2"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_07"
                 },
                 {
                     "id": 108700001,
@@ -179,7 +184,8 @@
                     ],
                     "ver": [
                         "3.2"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_01"
                 }
             ],
             "icon": "UiActivity/Atlas/SP_IconTab01"
@@ -208,7 +214,8 @@
                     "ver": [
                         "3.2"
                     ],
-                    "seasonIndexStart": 1
+                    "seasonIndexStart": 1,
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_06"
                 },
                 {
                     "id": 10039000102,
