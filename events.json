@@ -199,6 +199,7 @@
                     "ver": [
                         "3.2"
                     ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview28/T_WeaponBg_LinNai",
                     "tabImg": "UiLuckdraw/Atlas/SP_TabLinNaiNor"
                 },
                 {
@@ -235,6 +236,7 @@
                     "ver": [
                         "3.2"
                     ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview28/T_RoleBg_LinNai",
                     "tabImg": "UiLuckdraw/Atlas/SP_TabLinNaiNor"
                 },
                 {
@@ -343,6 +345,7 @@
                     "ver": [
                         "3.2"
                     ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_WeaponBg_01",
                     "tabImg": "UiLuckdraw/Atlas/SP_TabXiGeLiKaWeaponNor"
                 },
                 {
@@ -379,6 +382,7 @@
                     "ver": [
                         "3.2"
                     ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_RoleBg_01",
                     "tabImg": "UiLuckdraw/Atlas/SP_TabXiGeLiKaNor"
                 }
             ],
