@@ -55,6 +55,7 @@
                     "ver": [
                         "3.3"
                     ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_RoleBg_02",
                     "tabImg": "UiLuckdraw/Atlas/SP_TabDaNiYaNor"
                 },
                 {
@@ -163,6 +164,7 @@
                     "ver": [
                         "3.3"
                     ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_WeaponBg_02",
                     "tabImg": "UiLuckdraw/Atlas/SP_TabDaNiYaWeaponNor"
                 },
                 {
@@ -271,6 +273,7 @@
                     "ver": [
                         "3.3"
                     ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_RoleBg_01",
                     "tabImg": "UiLuckdraw/Atlas/SP_TabFeiXueNor"
                 },
                 {
@@ -307,6 +310,7 @@
                     "ver": [
                         "3.3"
                     ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview28/T_RoleBg_MoNing",
                     "tabImg": "UiLuckdraw/Atlas/SP_TabMoNingNor"
                 },
                 {
@@ -379,6 +383,7 @@
                     "ver": [
                         "3.3"
                     ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_WeaponBg_01",
                     "tabImg": "UiLuckdraw/Atlas/SP_TabFeiXueWeaponNor"
                 },
                 {
@@ -415,6 +420,7 @@
                     "ver": [
                         "3.3"
                     ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview28/T_WeaponBg_MoNing",
                     "tabImg": "UiLuckdraw/Atlas/SP_TabMoNingWeaponNor"
                 },
                 {
@@ -842,7 +848,8 @@
                     ],
                     "ver": [
                         "3.3"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_IntelligenceBg_01"
                 },
                 {
                     "id": 109400001,
@@ -862,7 +869,8 @@
                     ],
                     "ver": [
                         "3.3"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_ActivityBg_01"
                 },
                 {
                     "id": 104200002,
@@ -882,7 +890,8 @@
                     ],
                     "ver": [
                         "3.3"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_ActivityBg_02"
                 },
                 {
                     "id": 109600001,
@@ -902,7 +911,8 @@
                     ],
                     "ver": [
                         "3.3"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_ActivityBg_03"
                 },
                 {
                     "id": 102000005,
@@ -922,7 +932,8 @@
                     ],
                     "ver": [
                         "3.3"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_ActivityBg_04"
                 },
                 {
                     "id": 105100002,
@@ -942,7 +953,8 @@
                     ],
                     "ver": [
                         "3.3"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_IntelligenceBg_06"
                 },
                 {
                     "id": 101300020,
@@ -962,7 +974,8 @@
                     ],
                     "ver": [
                         "3.3"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_ActivityBg_05"
                 },
                 {
                     "id": 100100020,
@@ -982,7 +995,8 @@
                     ],
                     "ver": [
                         "3.3"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_ActivityBg_12"
                 },
                 {
                     "id": 100600005,
@@ -1002,7 +1016,8 @@
                     ],
                     "ver": [
                         "3.3"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_ActivityBg_07"
                 },
                 {
                     "id": 109800001,
@@ -1022,7 +1037,8 @@
                     ],
                     "ver": [
                         "3.3"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_ActivityBg_09"
                 },
                 {
                     "id": 110100001,
@@ -1042,7 +1058,8 @@
                     ],
                     "ver": [
                         "3.3"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_ActivityBg_09"
                 },
                 {
                     "id": 110100002,
@@ -1062,7 +1079,8 @@
                     ],
                     "ver": [
                         "3.3"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_IntelligenceBg_07"
                 },
                 {
                     "id": 102700006,
@@ -1082,7 +1100,8 @@
                     ],
                     "ver": [
                         "3.3"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_ActivityBg_06"
                 },
                 {
                     "id": 104600004,
@@ -1102,7 +1121,8 @@
                     ],
                     "ver": [
                         "3.3"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview32/T_ActivityBg_13"
                 },
                 {
                     "id": 100700036,
