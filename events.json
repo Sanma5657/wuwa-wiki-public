@@ -18,7 +18,7 @@
     ],
     "list": [
         {
-            "id": "gacha",
+            "id": 1,
             "label": "FunctionCondition_10009_Title",
             "child": [
                 {
@@ -827,7 +827,7 @@
             "icon": "Common/Atlas/TabIcon/SP_IconComDrawcard"
         },
         {
-            "id": "featured",
+            "id": 2,
             "label": "ActivityTypeName_1",
             "child": [
                 {
@@ -1498,7 +1498,7 @@
             "icon": "UiActivity/Atlas/SP_IconTab01"
         },
         {
-            "id": "recur",
+            "id": 3,
             "label": "ActivityTypeName_3",
             "child": [
                 {
