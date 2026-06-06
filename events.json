@@ -1599,7 +1599,8 @@
                         "cycle": {
                             "weeks": 4
                         }
-                    }
+                    },
+                    "path": "events/whimperingwastes"
                 },
                 {
                     "id": 10039000101,
@@ -1623,7 +1624,8 @@
                     ],
                     "season": {
                         "start": 1
-                    }
+                    },
+                    "path": "events/whimperingwastes"
                 },
                 {
                     "id": 10360000103,
