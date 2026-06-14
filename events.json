@@ -2005,7 +2005,8 @@
                     "season": {
                         "start": 3
                     },
-                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_06"
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_06",
+                    "path": "events/matrix/5?timelineindex="
                 },
                 {
                     "id": 10077000202,
@@ -2030,7 +2031,8 @@
                     "season": {
                         "start": 2
                     },
-                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_06"
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_06",
+                    "path": "events/matrix/4?timelineindex="
                 },
                 {
                     "id": 10077000201,
@@ -2055,7 +2057,60 @@
                     "season": {
                         "start": 1
                     },
-                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_06"
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_06",
+                    "path": "events/matrix/3?timelineindex="
+                },
+                {
+                    "id": 10077000102,
+                    "sourceId": 100770001,
+                    "time": [
+                        [
+                            "2026-02-12T04:00:00.000+08:00",
+                            "2026-03-19T03:59:59.999+08:00"
+                        ],
+                        [
+                            "2026-02-12T04:00:00.000+01:00",
+                            "2026-03-19T03:59:59.999+08:00"
+                        ],
+                        [
+                            "2026-02-12T04:00:00.000-05:00",
+                            "2026-03-19T03:59:59.999+08:00"
+                        ]
+                    ],
+                    "ver": [
+                        "3.1"
+                    ],
+                    "season": {
+                        "start": 2
+                    },
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview28/T_ActivityBg_Tower",
+                    "path": "events/matrix/2?timelineindex="
+                },
+                {
+                    "id": 10077000101,
+                    "sourceId": 100770001,
+                    "time": [
+                        [
+                            "2025-12-25T11:00:00.000+08:00",
+                            "2026-02-05T03:59:59.999+08:00"
+                        ],
+                        [
+                            "2025-12-25T04:00:00.000+08:00",
+                            "2026-02-05T03:59:59.999+08:00"
+                        ],
+                        [
+                            "2025-12-25T04:00:00.000+08:00",
+                            "2026-02-05T03:59:59.999+08:00"
+                        ]
+                    ],
+                    "ver": [
+                        "3.0"
+                    ],
+                    "season": {
+                        "start": 1
+                    },
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview28/T_ActivityBg_Tower",
+                    "path": "events/matrix/1?timelineindex="
                 },
                 {
                     "id": 10039000102,
