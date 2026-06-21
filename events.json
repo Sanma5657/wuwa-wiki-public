@@ -2220,7 +2220,8 @@
                             "weeks": 1
                         }
                     },
-                    "path": "events/phantasmadreamland"
+                    "path": "events/phantasmadreamland",
+                    "helpId": 598
                 },
                 {
                     "id": 10550000201,
@@ -2246,7 +2247,8 @@
                     "season": {
                         "start": 1
                     },
-                    "path": "events/phantasmadreamland"
+                    "path": "events/phantasmadreamland",
+                    "helpId": 598
                 },
                 {
                     "id": 10360000103,
@@ -2271,7 +2273,8 @@
                             "weeks": 1
                         }
                     },
-                    "path": "events/fantasiesofthethousandgateways"
+                    "path": "events/fantasiesofthethousandgateways",
+                    "helpId": 597
                 },
                 {
                     "id": 10360000102,
@@ -2299,7 +2302,8 @@
                             "weeks": 1
                         }
                     },
-                    "path": "events/fantasiesofthethousandgateways"
+                    "path": "events/fantasiesofthethousandgateways",
+                    "helpId": 597
                 },
                 {
                     "id": 10360000101,
@@ -2327,7 +2331,8 @@
                             "weeks": 1
                         }
                     },
-                    "path": "events/fantasiesofthethousandgateways"
+                    "path": "events/fantasiesofthethousandgateways",
+                    "helpId": 597
                 },
                 {
                     "id": 10030000202,
