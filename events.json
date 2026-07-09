@@ -54,7 +54,9 @@
                     ],
                     "ver": [
                         "3.5"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCg/T_RoleShare_SuiSui",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabSuiSuiNor"
                 },
                 {
                     "id": 100075,
@@ -89,7 +91,9 @@
                     ],
                     "ver": [
                         "3.5"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCg/T_RoleShare_AiMiSi",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabAiMiSiNor"
                 },
                 {
                     "id": 200074,
@@ -124,7 +128,9 @@
                     ],
                     "ver": [
                         "3.5"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCg/T_WeaponShare_SuiSui",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabSuiSuiWeaponNor"
                 },
                 {
                     "id": 200075,
@@ -159,7 +165,9 @@
                     ],
                     "ver": [
                         "3.5"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCg/T_WeaponShare_AiMiSi",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabAiMiSiWeaponNor"
                 },
                 {
                     "id": 100072,
@@ -194,7 +202,9 @@
                     ],
                     "ver": [
                         "3.5"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCg/T_RoleShare_XuanLing",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabXuanLingNor"
                 },
                 {
                     "id": 100073,
@@ -229,7 +239,9 @@
                     ],
                     "ver": [
                         "3.5"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCg/T_RoleShare_LuHeSi",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabLuHeSiNor"
                 },
                 {
                     "id": 100076,
@@ -264,7 +276,9 @@
                     ],
                     "ver": [
                         "3.5"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCg/T_RoleShare_LinNai",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabLinNaiNor"
                 },
                 {
                     "id": 200072,
@@ -299,7 +313,9 @@
                     ],
                     "ver": [
                         "3.5"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCg/T_WeaponShare_XuanLing",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabXuanLingWeaponNor"
                 },
                 {
                     "id": 200073,
@@ -334,7 +350,9 @@
                     ],
                     "ver": [
                         "3.5"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCg/T_WeaponShare_LuHeSi",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabLuHeSiWeaponNor"
                 },
                 {
                     "id": 200076,
@@ -369,7 +387,453 @@
                     ],
                     "ver": [
                         "3.5"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCg/T_WeaponShare_LinNai",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabLinNaiWeaponNor"
+                },
+                {
+                    "id": 10000102,
+                    "type": 1,
+                    "time": [
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+08:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+01:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999-05:00"
+                        ]
+                    ],
+                    "drops": [
+                        {
+                            "id": 1404
+                        },
+                        {
+                            "id": 1307
+                        },
+                        {
+                            "id": 1102
+                        },
+                        {
+                            "id": 1402
+                        }
+                    ],
+                    "ver": [
+                        "3.5"
+                    ],
+                    "img": "Common/Image/BgCg/T_RoleShare_01",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabJiyanNor"
+                },
+                {
+                    "id": 10000202,
+                    "type": 1,
+                    "time": [
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+08:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+01:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999-05:00"
+                        ]
+                    ],
+                    "drops": [
+                        {
+                            "id": 1302
+                        },
+                        {
+                            "id": 1307
+                        },
+                        {
+                            "id": 1102
+                        },
+                        {
+                            "id": 1402
+                        }
+                    ],
+                    "ver": [
+                        "3.5"
+                    ],
+                    "img": "Common/Image/BgCg/T_RoleShare_02",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabYinlinNor"
+                },
+                {
+                    "id": 10000302,
+                    "type": 1,
+                    "time": [
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+08:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+01:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999-05:00"
+                        ]
+                    ],
+                    "drops": [
+                        {
+                            "id": 1304
+                        },
+                        {
+                            "id": 1307
+                        },
+                        {
+                            "id": 1102
+                        },
+                        {
+                            "id": 1402
+                        }
+                    ],
+                    "ver": [
+                        "3.5"
+                    ],
+                    "img": "Common/Image/BgCg/T_RoleShare_08",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabJinxiNor"
+                },
+                {
+                    "id": 10000402,
+                    "type": 1,
+                    "time": [
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+08:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+01:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999-05:00"
+                        ]
+                    ],
+                    "drops": [
+                        {
+                            "id": 1205
+                        },
+                        {
+                            "id": 1307
+                        },
+                        {
+                            "id": 1102
+                        },
+                        {
+                            "id": 1402
+                        }
+                    ],
+                    "ver": [
+                        "3.5"
+                    ],
+                    "img": "Common/Image/BgCg/T_RoleShare_09",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabChangliNor"
+                },
+                {
+                    "id": 10000502,
+                    "type": 1,
+                    "time": [
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+08:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+01:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999-05:00"
+                        ]
+                    ],
+                    "drops": [
+                        {
+                            "id": 1105
+                        },
+                        {
+                            "id": 1307
+                        },
+                        {
+                            "id": 1102
+                        },
+                        {
+                            "id": 1402
+                        }
+                    ],
+                    "ver": [
+                        "3.5"
+                    ],
+                    "img": "Common/Image/BgCg/T_RoleShare_11",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabZhezhiNor"
+                },
+                {
+                    "id": 10000502,
+                    "type": 1,
+                    "time": [
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+08:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+01:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999-05:00"
+                        ]
+                    ],
+                    "drops": [
+                        {
+                            "id": 1305
+                        },
+                        {
+                            "id": 1307
+                        },
+                        {
+                            "id": 1102
+                        },
+                        {
+                            "id": 1402
+                        }
+                    ],
+                    "ver": [
+                        "3.5"
+                    ],
+                    "img": "Common/Image/BgCg/T_RoleShare_10",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabXiangliyaoNor"
+                },
+                {
+                    "id": 20000102,
+                    "type": 2,
+                    "time": [
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+08:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+01:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999-05:00"
+                        ]
+                    ],
+                    "drops": [
+                        {
+                            "id": 21010016
+                        },
+                        {
+                            "id": 21010044
+                        },
+                        {
+                            "id": 21050024
+                        },
+                        {
+                            "id": 21020084
+                        }
+                    ],
+                    "ver": [
+                        "3.5"
+                    ],
+                    "img": "Common/Image/BgCg/T_WeaponShare_06",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabJiyanWeaponNor"
+                },
+                {
+                    "id": 20000202,
+                    "type": 2,
+                    "time": [
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+08:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+01:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999-05:00"
+                        ]
+                    ],
+                    "drops": [
+                        {
+                            "id": 21050016
+                        },
+                        {
+                            "id": 21010044
+                        },
+                        {
+                            "id": 21050024
+                        },
+                        {
+                            "id": 21020084
+                        }
+                    ],
+                    "ver": [
+                        "3.5"
+                    ],
+                    "img": "Common/Image/BgCg/T_WeaponShare_07",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabYinlinWeaponNor"
+                },
+                {
+                    "id": 20000302,
+                    "type": 2,
+                    "time": [
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+08:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+01:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999-05:00"
+                        ]
+                    ],
+                    "drops": [
+                        {
+                            "id": 21010026
+                        },
+                        {
+                            "id": 21010044
+                        },
+                        {
+                            "id": 21050024
+                        },
+                        {
+                            "id": 21020084
+                        }
+                    ],
+                    "ver": [
+                        "3.5"
+                    ],
+                    "img": "Common/Image/BgCg/T_WeaponShare_08",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabPermanentWeaponNor06"
+                },
+                {
+                    "id": 20000402,
+                    "type": 2,
+                    "time": [
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+08:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+01:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999-05:00"
+                        ]
+                    ],
+                    "drops": [
+                        {
+                            "id": 21020016
+                        },
+                        {
+                            "id": 21010044
+                        },
+                        {
+                            "id": 21050024
+                        },
+                        {
+                            "id": 21020084
+                        }
+                    ],
+                    "ver": [
+                        "3.5"
+                    ],
+                    "img": "Common/Image/BgCg/T_WeaponShare_09",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabPermanentWeaponNor05"
+                },
+                {
+                    "id": 20000502,
+                    "type": 2,
+                    "time": [
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+08:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+01:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999-05:00"
+                        ]
+                    ],
+                    "drops": [
+                        {
+                            "id": 21050026
+                        },
+                        {
+                            "id": 21010044
+                        },
+                        {
+                            "id": 21050024
+                        },
+                        {
+                            "id": 21020084
+                        }
+                    ],
+                    "ver": [
+                        "3.5"
+                    ],
+                    "img": "Common/Image/BgCg/T_WeaponShare_10",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabZhezhiWeaponNor"
+                },
+                {
+                    "id": 20000602,
+                    "type": 2,
+                    "time": [
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+08:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999+01:00"
+                        ],
+                        [
+                            "2026-07-10T11:00:00.000+08:00",
+                            "2026-08-19T11:59:59.999-05:00"
+                        ]
+                    ],
+                    "drops": [
+                        {
+                            "id": 21040016
+                        },
+                        {
+                            "id": 21010044
+                        },
+                        {
+                            "id": 21050024
+                        },
+                        {
+                            "id": 21020084
+                        }
+                    ],
+                    "ver": [
+                        "3.5"
+                    ],
+                    "img": "Common/Image/BgCg/T_WeaponShare_11",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabXiangliyaoWeaponNor"
                 },
                 {
                     "id": 100068,
@@ -1492,7 +1956,8 @@
                     ],
                     "ver": [
                         "3.5"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview34/T_ActivityBg_01"
                 },
                 {
                     "id": 100100023,
@@ -1512,7 +1977,8 @@
                     ],
                     "ver": [
                         "3.5"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview34/T_ActivityBg_09"
                 },
                 {
                     "id": 101500009,
@@ -1532,7 +1998,8 @@
                     ],
                     "ver": [
                         "3.5"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview34/T_ActivityBg_06"
                 },
                 {
                     "id": 110500002,
@@ -1552,7 +2019,8 @@
                     ],
                     "ver": [
                         "3.5"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview34/T_ActivityBg_02"
                 },
                 {
                     "id": 106400002,
@@ -1572,7 +2040,8 @@
                     ],
                     "ver": [
                         "3.5"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview34/T_ActivityBg_03"
                 },
                 {
                     "id": 100700040,
@@ -2496,6 +2965,7 @@
                     "season": {
                         "start": 4
                     },
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview34/T_ActivityBg_07",
                     "path": "events/matrix",
                     "detailId": 6
                 },
