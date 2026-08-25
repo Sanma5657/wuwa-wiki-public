@@ -1,0 +1,95 @@
+[
+    {
+        "id": 2,
+        "devComment": "终焉矩阵第二赛季险境强袭",
+        "subTitle": "WheelTower_Season2_Title",
+        "drops": [
+            {
+                "id": 3,
+                "value": 400
+            },
+            {
+                "id": 36000015
+            },
+            {
+                "id": 50000433
+            },
+            {
+                "id": 50000087
+            },
+            {
+                "id": 43010004
+            },
+            {
+                "id": 43020004
+            },
+            {
+                "id": 36000004
+            },
+            {
+                "id": 80131013
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 80065026,
+                "type": 10
+            },
+            {
+                "id": 80080009,
+                "type": 13
+            }
+        ],
+        "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview34/T_ActivityBg_07",
+        "tabImg": "UiActivity/Image/Activity35/MowingTower/Common/T_MovingTower35TabIcon"
+    },
+    {
+        "id": 1,
+        "devComment": "终焉矩阵第一赛季无尽危局",
+        "subTitle": "WheelTower_Season1_Title",
+        "drops": [
+            {
+                "id": 3,
+                "value": 400
+            },
+            {
+                "id": 36000014
+            },
+            {
+                "id": 36000015
+            },
+            {
+                "id": 43010004
+            },
+            {
+                "id": 43020004
+            },
+            {
+                "id": 36000004
+            },
+            {
+                "id": 50000411
+            },
+            {
+                "id": 50000087
+            },
+            {
+                "id": 80131007
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 80065018,
+                "type": 10
+            },
+            {
+                "id": 50000182,
+                "type": 10
+            }
+        ],
+        "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_06",
+        "tabImg": "UiActivity/Image/Activity32/MowingTower/Common/T_MovingTower32TabIcon"
+    }
+]
