@@ -3503,7 +3503,8 @@
                     },
                     "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview34/T_ActivityBg_07",
                     "path": "events/matrix",
-                    "detailId": 7
+                    "detailId": 7,
+                    "replaceInfo": 2
                 },
                 {
                     "id": 10077000204,
@@ -3531,7 +3532,8 @@
                     },
                     "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview34/T_ActivityBg_07",
                     "path": "events/matrix",
-                    "detailId": 6
+                    "detailId": 6,
+                    "replaceInfo": 2
                 },
                 {
                     "id": 10077000203,
@@ -3559,7 +3561,8 @@
                     },
                     "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_06",
                     "path": "events/matrix",
-                    "detailId": 5
+                    "detailId": 5,
+                    "replaceInfo": 1
                 },
                 {
                     "id": 10077000202,
@@ -3587,7 +3590,8 @@
                     },
                     "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_06",
                     "path": "events/matrix",
-                    "detailId": 4
+                    "detailId": 4,
+                    "replaceInfo": 1
                 },
                 {
                     "id": 10077000201,
@@ -3615,7 +3619,8 @@
                     },
                     "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview31/T_ActivityBg_06",
                     "path": "events/matrix",
-                    "detailId": 3
+                    "detailId": 3,
+                    "replaceInfo": 1
                 },
                 {
                     "id": 10077000102,
