@@ -55,8 +55,8 @@
                     "ver": [
                         "3.7"
                     ],
-                    "img": "Common/Image/BgCg/T_RoleShare_XuanMing",
-                    "tabImg": "UiLuckdraw/Atlas/SP_TabXuanMingNor"
+                    "img": "Common/Image/BgCg/T_RoleShare_SuoMing",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabSuoMingNor"
                 },
                 {
                     "id": 100088,
@@ -351,8 +351,8 @@
                     "ver": [
                         "3.7"
                     ],
-                    "img": "Common/Image/BgCg/T_RoleShare_YouNuo",
-                    "tabImg": "UiLuckdraw/Atlas/SP_TabYouNuoNor"
+                    "img": "Common/Image/BgCg/T_RoleShare_Younuo",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabYounuoNor"
                 },
                 {
                     "id": 200084,
@@ -462,8 +462,8 @@
                     "ver": [
                         "3.7"
                     ],
-                    "img": "Common/Image/BgCg/T_WeaponShare_YouNuo",
-                    "tabImg": "UiLuckdraw/Atlas/SP_TabYouNuoWeaponNor"
+                    "img": "Common/Image/BgCg/T_WeaponShare_Younuo",
+                    "tabImg": "UiLuckdraw/Atlas/SP_TabYounuoWeaponNor"
                 },
                 {
                     "id": 100081,
