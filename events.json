@@ -4755,7 +4755,8 @@
                     ],
                     "ver": [
                         "3.7"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview36/T_MapBg_01"
                 },
                 {
                     "id": 101600011,
@@ -4772,7 +4773,8 @@
                     ],
                     "ver": [
                         "3.7"
-                    ]
+                    ],
+                    "img": "Common/Image/BgCgBig/Activity/ActivityPreview/Preview36/T_ActivityBg_05"
                 }
             ],
             "icon": "UiActivity/Atlas/SP_IconTab03"
